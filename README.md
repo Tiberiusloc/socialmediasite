@@ -1,5 +1,5 @@
 ###
-<img src="./src/img/media-site.jpg"></img>
+<img src="./src/img/media-site.png"></img>
 
 # Getting Started with Create React App
 
